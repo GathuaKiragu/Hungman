@@ -8,6 +8,6 @@ public class HungMan {
 
   public String checkLetter(String letter){
     String gameSolution = "moringa";
-    return "h";
+    return "r";
   }
 }
