@@ -3,6 +3,6 @@ public class HungMan {
   private String mAnswer;
 
   public String getAnswer(){
-    return mAnswer = "moring";
+    return mAnswer = "moringa";
   }
 }
